@@ -62,6 +62,6 @@ public class LoginControl {
         }
 
     }
-
+        //  是否提交到远程仓库
 
 }
