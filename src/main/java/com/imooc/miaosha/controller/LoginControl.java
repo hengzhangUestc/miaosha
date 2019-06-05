@@ -64,4 +64,7 @@ public class LoginControl {
     }
         //  是否提交到远程仓库
 
+
+        //笔记本提交到远程仓库 2019 6  5
+
 }
